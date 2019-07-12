@@ -1,0 +1,2 @@
+# PHPMailer
+Sample PHPMailer script
